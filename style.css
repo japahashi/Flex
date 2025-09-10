@@ -55,4 +55,18 @@ ul, ol, li {
     background-color: rgb(128, 0, 0);
    margin-left: 5px;
 }
-    
+.Circulos4 {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(227, 230, 53);
+    display: flex;
+    justify-content: space-between ;
+    align-items:center ;
+
+}
+.Circulos4 div{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: rgb(200, 194, 29);
+}
