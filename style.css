@@ -40,4 +40,19 @@ ul, ol, li {
     background-color: green;
    margin-left: 5px;
 }
+.Circulos3 {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(213, 78, 78);
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+.Circulos3 div{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: rgb(128, 0, 0);
+   margin-left: 5px;
+}
     
